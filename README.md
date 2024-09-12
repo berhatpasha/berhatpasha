@@ -3,7 +3,6 @@
 
 I support open source and free software and I am working on this issue myself. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berhatpasha&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&title_color=ff6347&icon_color=00bfff)
-![GitHub Streak](https://streak-stats.demolab.com?user=berhatpasha&theme=dark&hide_border=true)
 
 I am a high school student in Sakarya, Turkey.
 Although I have used many languages ! As you can see, I love Python very much!
