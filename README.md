@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### Welcome
 
-I support open source and free software and I am working on this issue myself. 
+I support open source and free software and I am working on this issue myself.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berhatpasha&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&title_color=ff6347&icon_color=00bfff)
 
 I am a high school student in Sakarya, Turkey.
