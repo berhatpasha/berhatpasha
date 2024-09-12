@@ -10,7 +10,7 @@ Although I have used many languages ! As you can see, I love Python very much!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berhatpasha&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff6347)
 
-I see the world of software and informatics as my future. Since I was 12 years old, I can say that I've been trying to improve myself in this regard. I'm leaving my discord account here in case you want to reach me: **@zencibeyefendioyunda**
+I see the world of software and informatics as my future. Since I was 12 years old, I can say that I've been trying to improve myself in this regard. I'm leaving my discord account here in case you want to reach me: **@ppasnam**
 
 I am mostly active on discord and would like to talk to you. Just mention that you are from github. You can also follow on Twitter:**@s_anksiyetemvar**
 
