@@ -12,7 +12,5 @@ Although I have used many languages ! As you can see, I love Python very much!
 
 I see the world of software and informatics as my future. Since I was 12 years old, I can say that I've been trying to improve myself in this regard. I'm leaving my discord account here in case you want to reach me: **@ppasnam**
 
-I am mostly active on discord and would like to talk to you. Just mention that you are from github. You can also follow on Twitter:**@s_anksiyetemvar**
-
 It will be enough to follow me on github to support me. Thank you very much in advance
 
