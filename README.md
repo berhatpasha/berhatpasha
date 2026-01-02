@@ -3,12 +3,10 @@
 
 I support open source and free software and I am working on this issue myself.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berhatpasha&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&title_color=ff6347&icon_color=00bfff)
 
 I am a high school student in Sakarya, Turkey.
 Although I have used many languages ! As you can see, I love Python very much!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berhatpasha&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff6347)
 
 I see the world of software and informatics as my future. Since I was 12 years old, I can say that I've been trying to improve myself in this regard. I'm leaving my discord account here in case you want to reach me: **@ppasnam**
 
